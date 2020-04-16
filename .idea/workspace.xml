@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1d80650-b55f-4a8e-ae47-8a2f4e6c4c19" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZD5EMPEQQ5QP9tUWmoJ9GQBrjK" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/io/confluent/developer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.confluent.developer" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="io.confluent.developer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Exercise5Test.everythingNotOk">
+    <configuration name="Exercise3Test.joinWithMultipleArticle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bnp-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.confluent.developer.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.confluent.developer" />
+      <option name="MAIN_CLASS_NAME" value="io.confluent.developer.Exercise3Test" />
+      <option name="METHOD_NAME" value="joinWithMultipleArticle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise3Test.simpleJoin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bnp-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.confluent.developer.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.confluent.developer" />
+      <option name="MAIN_CLASS_NAME" value="io.confluent.developer.Exercise3Test" />
+      <option name="METHOD_NAME" value="simpleJoin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise5Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bnp-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.confluent.developer.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.confluent.developer" />
+      <option name="MAIN_CLASS_NAME" value="io.confluent.developer.Exercise5Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise5Test.everythingNotOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bnp-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.confluent.developer.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.confluent.developer" />
+      <option name="MAIN_CLASS_NAME" value="io.confluent.developer.Exercise5Test" />
+      <option name="METHOD_NAME" value="everythingNotOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise5Test.everythingOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bnp-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.confluent.developer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.confluent.developer" />
+      <option name="MAIN_CLASS_NAME" value="io.confluent.developer.Exercise5Test" />
+      <option name="METHOD_NAME" value="everythingOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Exercise5Test.everythingNotOk" />
+        <item itemvalue="JUnit.Exercise5Test.everythingOk" />
+        <item itemvalue="JUnit.Exercise5Test" />
+        <item itemvalue="JUnit.Exercise3Test.joinWithMultipleArticle" />
+        <item itemvalue="JUnit.Exercise3Test.simpleJoin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1d80650-b55f-4a8e-ae47-8a2f4e6c4c19" name="Default Changelist" comment="" />
+      <created>1584360711029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584360711029</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="12" width="640" height="707" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585570676042">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="12" width="640" height="707" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.720@0.0.1280.720" timestamp="1585570676042" />
+    <state x="453" y="93" width="376" height="547" key="#com.intellij.ide.util.MemberChooser" timestamp="1585569618222">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="453" y="93" width="376" height="547" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1585569618222" />
+    <state x="378" y="131" width="526" height="470" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585569583365">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="378" y="131" width="526" height="470" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1585569583365" />
+    <state x="403" y="130" width="476" height="470" key="#xdebugger.evaluate" timestamp="1585573682992">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="403" y="130" width="476" height="470" key="#xdebugger.evaluate/0.0.1280.720@0.0.1280.720" timestamp="1585573682992" />
+    <state width="1238" height="193" key="GridCell.Tab.0.bottom" timestamp="1585573920143">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="193" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585573920143" />
+    <state width="1238" height="229" key="GridCell.Tab.0.bottom/0.540.1280.720/160.0.960.540@0.540.1280.720" timestamp="1584368828462" />
+    <state width="1238" height="193" key="GridCell.Tab.0.center" timestamp="1585573920142">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="193" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1585573920142" />
+    <state width="1238" height="229" key="GridCell.Tab.0.center/0.540.1280.720/160.0.960.540@0.540.1280.720" timestamp="1584368828462" />
+    <state width="1238" height="193" key="GridCell.Tab.0.left" timestamp="1585573920142">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="193" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1585573920142" />
+    <state width="1238" height="229" key="GridCell.Tab.0.left/0.540.1280.720/160.0.960.540@0.540.1280.720" timestamp="1584368828461" />
+    <state width="1238" height="193" key="GridCell.Tab.0.right" timestamp="1585573920143">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="193" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1585573920143" />
+    <state width="1238" height="229" key="GridCell.Tab.0.right/0.540.1280.720/160.0.960.540@0.540.1280.720" timestamp="1584368828462" />
+    <state width="1238" height="193" key="GridCell.Tab.1.bottom" timestamp="1585573920033">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="193" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585573920033" />
+    <state width="1238" height="229" key="GridCell.Tab.1.bottom/0.540.1280.720/160.0.960.540@0.540.1280.720" timestamp="1584368828340" />
+    <state width="1238" height="193" key="GridCell.Tab.1.center" timestamp="1585573920033">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="193" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1585573920033" />
+    <state width="1238" height="229" key="GridCell.Tab.1.center/0.540.1280.720/160.0.960.540@0.540.1280.720" timestamp="1584368828340" />
+    <state width="1238" height="193" key="GridCell.Tab.1.left" timestamp="1585573920032">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="193" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1585573920032" />
+    <state width="1238" height="229" key="GridCell.Tab.1.left/0.540.1280.720/160.0.960.540@0.540.1280.720" timestamp="1584368828340" />
+    <state width="1238" height="193" key="GridCell.Tab.1.right" timestamp="1585573920033">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="193" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1585573920033" />
+    <state width="1238" height="229" key="GridCell.Tab.1.right/0.540.1280.720/160.0.960.540@0.540.1280.720" timestamp="1584368828340" />
+    <state x="303" y="581" width="672" height="678" key="search.everywhere.popup" timestamp="1584368587521">
+      <screen x="0" y="540" width="1280" height="720" />
+    </state>
+    <state x="303" y="581" width="672" height="678" key="search.everywhere.popup/0.540.1280.720/160.0.960.540@0.540.1280.720" timestamp="1584368587521" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/2.4.0/kafka-streams-2.4.0-sources.jar!/org/apache/kafka/streams/kstream/TimeWindows.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
